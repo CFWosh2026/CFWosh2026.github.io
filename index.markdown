@@ -45,9 +45,9 @@ Submit at TBD.
 Proceedings from the workshop will be published by ACM along with regular Computing Frontiers papers.
 
 #### Important dates
- - Paper submission deadline: **March 09, 2026**
- - Notification of acceptance: **March 23, 2026**
- - Camera-ready deadline: **April 6, 2026**
+ - Paper submission deadline: **March 16, 2026**
+ - Notification of acceptance: **March 30, 2026**
+ - Camera-ready deadline: **April 13, 2026**
 
 #### Workshop co-chairs:
 The co-chairs:
