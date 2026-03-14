@@ -40,7 +40,7 @@ This represents a 65% discount, funded directly by ACM. Authors are encouraged t
 This temporary subsidized pricing will apply to all conferences scheduled for 2026.
 
 #### Submission page and information
-Submit at TBD.
+Submit at https://easychair.org/conferences/?conf=cf26oshw.
 
 Proceedings from the workshop will be published by ACM along with regular Computing Frontiers papers.
 
